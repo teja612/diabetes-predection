@@ -1,2 +1,2 @@
 # diabetes-predection
-the developed project predects diabetes using machine learning algorithm
+the developed project predects diabetes using machine learning algorithms
